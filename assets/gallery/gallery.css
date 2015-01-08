@@ -1,0 +1,9 @@
+.entry-gallery {
+  margin-bottom: 1em;
+  padding: 4px;
+}
+
+.entry-gallery img {
+  vertical-align: bottom;
+  opacity:0;
+}
